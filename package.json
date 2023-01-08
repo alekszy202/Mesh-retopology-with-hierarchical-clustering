@@ -1,0 +1,12 @@
+{
+  "name": "com.polsl.retopology-hierarchical-clustering",
+  "version": "1.0.0",
+  "displayName": "Mesh retopology with hierarchical clustering",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Aleksandra Szymczak",
+    "email": "a.szymczak202@gmail.com"
+  },
+  "description": "Tool for triangular mesh retopology that utilises python-based hierarchical clustering."
+}
